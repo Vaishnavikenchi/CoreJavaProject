@@ -27,16 +27,16 @@ It allows users to perform basic arithmetic operations, view calculation history
 ---
 
 ## 🚀 How to Run
-1. Make sure **Java JDK** is installed on your system
-2.  2. Open the project folder in **VS Code** or any Java IDE
-3. Compile the program (copy and paste into your terminal):
+1. Make sure **Java JDK** is installed on your system  
+2. Open the project folder in **VS Code** or any Java IDE  
+3. Compile the program:
+   ```bash
+   javac SmartCalci.java
+4.Run the Program:
 ```bash
-javac SmartCalci.java
-4. Run the Program:
-   
    java SmartCalci
 
-   # Steps:
+## Steps:
 
 1.Choose an operation (1-4) to perform calculation
 2.Use previous result?
