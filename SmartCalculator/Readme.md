@@ -29,7 +29,6 @@ It allows users to perform basic arithmetic operations, view calculation history
 
 1. Make sure **Java JDK** is installed on your system  
 2. Open the project folder in **VS Code** or any Java IDE  
-
 3. Compile the program (copy and paste into terminal):javac SmartCalci.java
 4. Run the Program:java SmartCalci
 
@@ -63,11 +62,11 @@ It allows users to perform basic arithmetic operations, view calculation history
 5. VIEW HISTORY
 6.VIEW TOTAL OPERATIONS COUNT
 7. EXIT
-Enter your choice: 1
-Use previous result? (Yes=1 / No=0): 0
-Enter first number: 2
-Enter second number: 3
-Result: 5.0
+   Enter your choice: 1
+   Use previous result? (Yes=1 / No=0): 0
+   Enter first number: 2
+   Enter second number: 3
+   Result: 5.0
 
 --- Welcome to SmartCalci ---
 1. ADDITION
