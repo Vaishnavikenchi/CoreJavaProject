@@ -10,7 +10,6 @@ It allows users to perform basic arithmetic operations, view calculation history
 - [🛠 Technologies](#-technologies)
 - [🚀 How to Run](#-how-to-run)
 - [💡 Usage](#-usage)
-- [🗂 Project Structure](#-project-structure)
 - [📤 Sample Output](#-sample-output)
 - [👤 Author](#-author)
 
@@ -58,7 +57,7 @@ It allows users to perform basic arithmetic operations, view calculation history
 
 
 
-## Output:
+## Sample Output:
 
 --- Welcome to SmartCalci ---
 1. ADDITION
@@ -73,6 +72,7 @@ Use previous result? (Yes=1 / No=0): 0
 Enter first number: 2
 Enter second number: 3
 Result: 5.0
+
 
 --- Welcome to SmartCalci ---
 1. ADDITION
