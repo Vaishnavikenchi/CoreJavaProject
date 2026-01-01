@@ -29,8 +29,10 @@ It allows users to perform basic arithmetic operations, view calculation history
 
 1. Make sure **Java JDK** is installed on your system  
 2. Open the project folder in **VS Code** or any Java IDE  
-3. Compile the program (copy and paste into terminal):javac SmartCalci.java
-4. Run the Program:java SmartCalci
+3. Compile the program (copy and paste into terminal):
+   ```bash
+   javac SmartCalci.java
+5. Run the Program:java SmartCalci
 
 
 
