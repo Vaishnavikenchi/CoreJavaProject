@@ -39,12 +39,17 @@ It allows users to perform basic arithmetic operations, view calculation history
 ## Steps
 
 1.Choose an operation (1-4) to perform calculation
+
 2.Use previous result?
   Enter 1 ✅ for Yes
   Enter 0 ❌ for No
+  
 3.Enter numbers for calculation
+
 4.The result is displayed and stored in history
+
 5.You can view calculation history (option 5) or total operations (option 6) anytime
+
 6.Choose 7️⃣ to exit the program
 
 
