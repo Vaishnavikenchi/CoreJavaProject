@@ -38,15 +38,12 @@ public class MainApp {
 
                 System.out.println("Student Added!");
             }
-
             else if(choice == 2) {
 
                 for(Student s : students) {
                     s.display();
                 }
-
             }
-
             else if(choice == 3) {
 
                 System.out.print("Enter student id:");
@@ -60,17 +57,12 @@ public class MainApp {
                         s.display();
                         found = true;
                     }
-
                 }
-
                 if(!found) {
                     System.out.println("Student not found");
                 }
-
             }
-
         } while(choice != 4);
         System.out.println("Exited");
-
     }
 }
